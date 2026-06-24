@@ -40,7 +40,7 @@ This project was developed as part of the Decode Labs Python Internship Program 
 3. Navigate to the project directory:
 4. Run the application:
 ```bash
-python password_generator.py
+python passwordgenerator.py
 ```
 
 ## Learning Outcomes
